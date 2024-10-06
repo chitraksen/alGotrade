@@ -17,6 +17,8 @@ go.work.sum
 
 # env file
 .env
+
+# Custom files
 .DS_Store
 /archive
 config.json
