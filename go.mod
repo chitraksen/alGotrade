@@ -1,4 +1,4 @@
-module algotrade
+module github.com/chitraksen/alGotrade
 
 go 1.23.2
 
